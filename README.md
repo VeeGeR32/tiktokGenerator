@@ -25,7 +25,5 @@ Ce script Python utilise la bibliothèque MoviePy pour automatiser la création 
    ```bash
    python tiktok.py
    ```
-
-   Assurez-vous de remplacer "nom_du_script.py" par le nom réel de votre fichier script.
-
+4. **Temps d'execution** : Dépend de la longueur de la video en entrée et de votre configuration de pc.
 4. **Résultats :** Les vidéos générées seront sauvegardées dans le dossier spécifié par la variable `out`.
